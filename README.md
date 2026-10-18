@@ -59,7 +59,7 @@ comming...
 
 ### 🤝 How to Contribute (Make it grow fast)
 
-We use the freeCodeCamp contribution model:
+We use the MasterFreeCode contribution model:
 
 1.  Fork this repo
 2.  Pick a lesson in `/curriculum` that is missing
@@ -99,4 +99,4 @@ MIT — Free to use, free to teach, free to fork. Just credit Master Free Code.
 - **Developer?** Star this repo + open your first PR today!
 - **Want your site reviewed?** Drop your link in the group with hashtag `#review`
 
-**Let's build Africa's freeCodeCamp together. 🌍**
+**Let's build Global's MasterFreeCode together. 🌍**
